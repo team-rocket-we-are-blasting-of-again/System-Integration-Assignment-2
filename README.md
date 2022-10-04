@@ -34,7 +34,7 @@ To view our full XML representation follow this [link](https://github.com/team-r
 
 - Pub/Sub
 
-  We use rabbit as our Message Broker. This allows us to emit events of specific things that happen during our camunda process.
+  We use rabbit as our Message Broker. This allows us to emit events of specific events that happen during our camunda process.
 
 ## Business Rules
 
