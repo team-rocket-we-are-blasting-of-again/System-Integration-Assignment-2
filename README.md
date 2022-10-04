@@ -22,6 +22,8 @@ Each microservice is compleatly independent, this is done by each service having
 
 To view our full XML representation follow this [link](https://github.com/team-rocket-we-are-blasting-of-again/complaint_service_with_bpm/blob/main/src/main/resources/process.bpmn)
 
+### Graphical representation
+
 ![process model](https://raw.githubusercontent.com/team-rocket-we-are-blasting-of-again/complaint_service_with_bpm/main/docs/process.bmp)
 
 ## Integration Patterns
