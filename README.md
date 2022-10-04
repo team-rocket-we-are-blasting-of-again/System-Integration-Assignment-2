@@ -40,3 +40,7 @@ We use conditional expressions, since our conditions are very simple.
 This business rule checks if a complaint contains any bad words, if it does we simply deny the complaint and send pass them to a new service which will tell the complaintent that their complaint was denied.
 
 Alternatively, if we were to have some more in depth business rules with a bunch of edge cases, we would have implemented these using a Decision Table.
+
+## Human Tasks
+
+We use human tasks to allow the employee to review the opened complaint. This review involves figuring out if the complaint is a new case in our system or if a case already exists which looks like this complaint, it will be added to the pile of messages relevant to that case.
