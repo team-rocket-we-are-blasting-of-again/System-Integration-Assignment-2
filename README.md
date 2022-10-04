@@ -1,4 +1,4 @@
-# System Integration Assignment 2
+#simply don't want to bother our employees with reviewing it System Integration Assignment 2
 
 ## Group Members
 
@@ -43,4 +43,4 @@ Alternatively, if we were to have some more in depth business rules with a bunch
 
 ## Human Tasks
 
-We use human tasks to allow the employee to review the opened complaint. This review involves figuring out if the complaint is a new case in our system or if a case already exists which looks like this complaint, it will be added to the pile of messages relevant to that case.
+We use human tasks to allow the employee to review the opened complaint. This review involves figuring out if the complaint is a new case in our system or if the complaint is similar to an already existing case, it will be added to the pile of messages relevant to that case.
