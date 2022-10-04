@@ -8,4 +8,4 @@
 
 ## BPMN Diagram
 
-![Diagram](https://gyazo.com/5f4d49c79ee6949c16e86e16695ef732)
+![process model](https://raw.githubusercontent.com/team-rocket-we-are-blasting-of-again/complaint_service_with_bpm/main/docs/process.bmp)
