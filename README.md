@@ -42,7 +42,7 @@ We use conditional expressions, since our conditions are very simple.
 
 [Example conditional expression](https://github.com/team-rocket-we-are-blasting-of-again/complaint_service_with_bpm/blob/main/src/main/resources/process.bpmn#L29)
 
-This business rule checks if a complaint contains any bad words, if it does we simply deny the complaint and send pass them to a new service which will tell the complaintent that their complaint was denied.
+This business rule checks if a complaint contains any bad words, if it does we simply deny the complaint and send them to a new service which will tell the complaintent that their complaint was denied.
 
 Alternatively, if we were to have some more in depth business rules with a bunch of edge cases, we would have implemented these using a Decision Table.
 
