@@ -1,4 +1,4 @@
-#simply don't want to bother our employees with reviewing it System Integration Assignment 2
+# System Integration Assignment 2 - Mini Project BPM
 
 ## Group Members
 
@@ -12,11 +12,11 @@
 
 We make use of a microservice architecture, these services can be found here:
 
-Each microservice is compleatly independent, this is done by each service having their own database as well as their own API / REST endpoints
-
 - [Complaint Service With BPM](https://github.com/team-rocket-we-are-blasting-of-again/complaint_service_with_bpm)
 - [Case management](https://github.com/team-rocket-we-are-blasting-of-again/case-management)
 - [Email service](https://github.com/team-rocket-we-are-blasting-of-again/Simple-Email-Service)
+
+Each microservice is compleatly independent, this is done by each service having their own database as well as their own API / REST endpoints
 
 ## BPMN Diagram
 
@@ -27,8 +27,11 @@ To view our full XML representation follow this [link](https://github.com/team-r
 ## Integration Patterns
 
 - Process Manager
+
   We use Camunda to model our business process.
+
 - Pub/Sub
+
   We use rabbit as our Message Broker. This allows us to emit events of specific things that happen during our camunda process.
 
 ## Business Rules
