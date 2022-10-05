@@ -13,7 +13,7 @@
 We make use of a microservice architecture, these services can be found here:
 
 - [Complaint Service With BPM](https://github.com/team-rocket-we-are-blasting-of-again/complaint_service_with_bpm)
-- [Case management](https://github.com/team-rocket-we-are-blasting-of-again/case-management)
+- [Case management](https://github.com/team-rocket-we-are-blasting-of-again/case-management/tree/platform7)
 - [Email service](https://github.com/team-rocket-we-are-blasting-of-again/Simple-Email-Service)
 
 Each microservice is compleatly independent, this is done by each service having their own database as well as their own API / REST endpoints
